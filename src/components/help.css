@@ -1,0 +1,70 @@
+.header{
+    font-size: 40px;
+    background-color: #5dc348;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    color:blue ;
+    display: flex;
+    justify-content: center;
+    font-family: 'Croissant One', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Pixelify Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+   
+}
+.ok{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.hey3:hover{
+    background-color: greenyellow;
+    color: blueviolet;
+}
+.hey2:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.icon{
+    font-size: 20px;
+}
+.hey{
+    margin-top: 40px;
+    margin-left: 120px;
+    font-family: 'Croissant One', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Pixelify Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+.jjt{
+    background-color:#c7f4d4;
+   
+}
+.hey2{
+    font-size: 30px;
+margin-left: 10px;
+border-radius: 10px;
+
+}
+.record{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Croissant One', serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    color: #0006ff;
+}
+.container{
+    padding: 20px;
+   
+}
+.hey3{
+    font-size: 30px;
+    margin-left: 200px;
+    border-radius: 20px;
+}
